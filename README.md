@@ -65,8 +65,8 @@ source('src/MA2405_GROUP_PROJECT.R')
 - 🟢 Random Forest: Feature importance plot
 
 ## 📝 Group Members
-Punit Rajesh Shah 
-Ellen Dinata Jo   
-Nicole Sin Yi Qin 
-Sathvika Subramanian  
-Se Dickson 
+Punit Rajesh Shah   
+Ellen Dinata Jo      
+Nicole Sin Yi Qin    
+Sathvika Subramanian     
+Se Dickson    
